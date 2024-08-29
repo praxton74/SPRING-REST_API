@@ -1,4 +1,5 @@
-# SPRING-DEMO
+# SPRING-API
+
 This project is a simple Rest API with Spring Boot CRUD Appliacation.
 
 Main Goal is:
